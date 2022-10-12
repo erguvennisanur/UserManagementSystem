@@ -1,0 +1,11 @@
+﻿CREATE TABLE [dbo].[User] (
+    [firstName]     NVARCHAR (450) NOT NULL,
+    [lastName]      NVARCHAR (MAX) NOT NULL,
+    [activepassive] BIT            NOT NULL,
+    [email]         NVARCHAR (MAX) NOT NULL,
+    [address]       NVARCHAR (MAX) NOT NULL,
+    [telNo]         NVARCHAR (MAX) NOT NULL,
+    [Date] DATETIME NOT NULL, 
+    CONSTRAINT [PK_User] PRIMARY KEY CLUSTERED ([firstName] ASC)
+);
+
