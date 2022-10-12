@@ -1,0 +1,17 @@
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\bin\Debug\net6.0\UserManagementBusiness.deps.json
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\bin\Debug\net6.0\UserManagementBusiness.dll
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\bin\Debug\net6.0\UserManagementBusiness.pdb
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\bin\Debug\net6.0\UserManagementCommon.dll
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\bin\Debug\net6.0\UserManagementData.dll
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\bin\Debug\net6.0\UserManagementCommon.pdb
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\bin\Debug\net6.0\UserManagementData.pdb
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\obj\Debug\net6.0\UserManagementBusiness.csproj.AssemblyReference.cache
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\obj\Debug\net6.0\UserManagementBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\obj\Debug\net6.0\UserManagementBusiness.AssemblyInfoInputs.cache
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\obj\Debug\net6.0\UserManagementBusiness.AssemblyInfo.cs
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\obj\Debug\net6.0\UserManagementBusiness.csproj.CoreCompileInputs.cache
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\obj\Debug\net6.0\UserManagementBusiness.csproj.CopyComplete
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\obj\Debug\net6.0\UserManagementBusiness.dll
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\obj\Debug\net6.0\refint\UserManagementBusiness.dll
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\obj\Debug\net6.0\UserManagementBusiness.pdb
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementBusiness\obj\Debug\net6.0\ref\UserManagementBusiness.dll
