@@ -1,0 +1,12 @@
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementCommon\bin\Debug\net6.0\UserManagementCommon.deps.json
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementCommon\bin\Debug\net6.0\UserManagementCommon.dll
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementCommon\bin\Debug\net6.0\UserManagementCommon.pdb
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementCommon\obj\Debug\net6.0\UserManagementCommon.csproj.AssemblyReference.cache
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementCommon\obj\Debug\net6.0\UserManagementCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementCommon\obj\Debug\net6.0\UserManagementCommon.AssemblyInfoInputs.cache
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementCommon\obj\Debug\net6.0\UserManagementCommon.AssemblyInfo.cs
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementCommon\obj\Debug\net6.0\UserManagementCommon.csproj.CoreCompileInputs.cache
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementCommon\obj\Debug\net6.0\UserManagementCommon.dll
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementCommon\obj\Debug\net6.0\refint\UserManagementCommon.dll
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementCommon\obj\Debug\net6.0\UserManagementCommon.pdb
+C:\Users\nerguven\Desktop\UserManagementProje\UserManagementCommon\obj\Debug\net6.0\ref\UserManagementCommon.dll
